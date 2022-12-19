@@ -1,0 +1,18 @@
+.card-container {
+  background-color: #ffffff;
+  list-style-type: none;
+}
+
+.thumbnail-image {
+  height: 50px;
+  width: 50px;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+}
+
+.btn-hide {
+  opacity: 0.5;
+}
